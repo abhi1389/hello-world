@@ -1,0 +1,16 @@
+Azure Portal
+URL	https://portal.azure.com/#home
+Subscription	00bc24e5-80f4-4394-afad-f8bd3ca2a68f
+Username	User1-17591461@triplecrownlabsoutlook.onmicrosoft.com
+Password	Aq6Aj4@+Mg
+Resource Group
+RG1lod17591461
+Thumbnail screenshot of virtual machine DP-300 Monitor and Optimize Resources (COPY)
+DP-300 Monitor and Optimize Resources (COPY)
+Username	Student
+Password	Pa55w.rd
+
+Virtual machine name: azureSQLserverVM
+
+Administrator account username: labadmin
+Administrator account password: Azur3Pa$$2020
