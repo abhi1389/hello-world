@@ -14,3 +14,5 @@ Virtual machine name: azureSQLserverVM
 
 Administrator account username: labadmin
 Administrator account password: Azur3Pa$$2020
+
+this is a test 1
